@@ -29,3 +29,16 @@
 - **Kimicu YandexGames SDK** - сдк для гибкой настройки проекта под Yandex Games. `API`. [GitHub](https://github.com/Kitgun1/KimicuYandexGames)
 - **Kimicu Layouts** - Гибкая реализация Layout в Unity UI. `UI`, `Layout`. [GitHub](https://github.com/Kitgun1/KimicuLayouts)
 - **AuroraWorld**(В Разработке) - RTS стратегия с развитием поселения. `URP`, `Mathf`, `A*`. [GitHub](https://github.com/Kitgun1/AuroraWorld)
+
+# Знания
+- **Проектирование** - SOLID, ООП, DI
+- **Unity** - Input System(New), Cinemachine, ProBuilder, Post Processing, Terrain, Joint, Адаптивный UI, Ragdoll
+- **Дополнительное Unity** - Генерация Mesh в коде
+- **Render** - BRP, URP, Shader Graph
+- **Плагины** DoTween, Zenject, UniRx(R3), UniTask, Addressable, ... 
+- **Оптимизация** - код, физика, render, UI
+- **Паттерны** - Proxy, Entry point, Factory, Object Pool, State Machine, Singleton, Observer, ...
+- **Система контроля версий** - Git на уверенном уровне
+
+
+- **Прочее** - SQL, html/css, react.js, python, photoshop, blender
