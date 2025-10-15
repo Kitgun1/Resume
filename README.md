@@ -29,7 +29,7 @@
 
 # Знания
 - **Проектирование** - SOLID, ООП, DI
-- **Unity** - Unity Myltiplayer, Input System(New), Cinemachine, ProBuilder, Post Processing, Terrain, Joint, Адаптивный UI, Ragdoll
+- **Unity** - Unity Multiplayer, Input System(New), Cinemachine, ProBuilder, Post Processing, Terrain, Joint, Адаптивный UI, Ragdoll
 - **Дополнительное Unity** - Генерация Mesh в коде
 - **Render** - BRP, URP, Shader Graph
 - **Плагины** - Job System, DoTween, Zenject, UniRx(R3), UniTask(многопоточность и асинхронность), Addressable, ... 
