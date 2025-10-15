@@ -2,10 +2,6 @@
 
 **![icon](images/calendar-event.svg) Дата рождения:** 19.02.2004 (21)
 
-**![icon](images/geo-alt.svg) Город:** Лениногорск
-
-**![icon](images/mortarboard-fill.svg) Образование:** СПО «Информационные системы и программирование»
-
 <nobr>![Telegram:](images/telegram.svg) <a href="https://t.me/KimicuK">@KimicuK</a></nobr>&emsp;<br class="hide">
 <nobr>![GitHub:](images/github.svg) https://github.com/Kitgun1</nobr>
 
