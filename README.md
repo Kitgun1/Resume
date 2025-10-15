@@ -25,19 +25,20 @@
 ## ![icon](images/window-stack.svg) Мои проекты
 
 - **Game Car Simulate** - Проект гонок с механикой призрака повторяющего твой предыдущий заезд. `Newtonsoft`, `R3`, `DI`. [Игра](https://kimicu.itch.io/car-simulate), [GitHub](https://github.com/Kitgun1/GameCarSimulate)
-- **Farm Simulator** - Симулятор фермы. `YandexGames SDK`. [Игра](https://yandex.ru/games/app/295591?draft=true&lang=ru#info)
+- **Farm Simulator** - Симулятор фермы. `YandexGames SDK`. [Режим в игре](https://yandex.ru/games/app/391490)
 - **Kimicu YandexGames SDK** - сдк для гибкой настройки проекта под Yandex Games. `API`. [GitHub](https://github.com/Kitgun1/KimicuYandexGames)
 - **Kimicu Layouts** - Гибкая реализация Layout в Unity UI. `UI`, `Layout`. [GitHub](https://github.com/Kitgun1/KimicuLayouts)
 - **AuroraWorld**(В Разработке) - RTS стратегия с развитием поселения. `URP`, `Mathf`, `A*`. [GitHub](https://github.com/Kitgun1/AuroraWorld)
+- **Robot Game**(В закрытой разработке) - Steam сессионая игра с друзьями похожая на Lethal Company (В скором времени будет открыт репозиторий с демонстрацией, но без открытого исходного кода)
 
 # Знания
 - **Проектирование** - SOLID, ООП, DI
-- **Unity** - Input System(New), Cinemachine, ProBuilder, Post Processing, Terrain, Joint, Адаптивный UI, Ragdoll
+- **Unity** - Unity Myltiplayer, Input System(New), Cinemachine, ProBuilder, Post Processing, Terrain, Joint, Адаптивный UI, Ragdoll
 - **Дополнительное Unity** - Генерация Mesh в коде
 - **Render** - BRP, URP, Shader Graph
-- **Плагины** DoTween, Zenject, UniRx(R3), UniTask, Addressable, ... 
+- **Плагины** - Job System, DoTween, Zenject, UniRx(R3), UniTask(многопоточность и асинхронность), Addressable, ... 
 - **Оптимизация** - код, физика, render, UI
-- **Паттерны** - Proxy, Entry point, Factory, Object Pool, State Machine, Singleton, Observer, ...
+- **Паттерны** - Proxy, Entry point, Factory, Object Pool, State Machine, Singleton, Observer, и т.д.
 - **Система контроля версий** - Git на уверенном уровне
 
 
