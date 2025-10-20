@@ -27,7 +27,7 @@
 - Паттерны: State Machine, Object Pool, Factory, Observer, Proxy, Entry Point, Singleton  
 
 ### 🕹️ Unity
-- Input System (New), Cinemachine, ProBuilder, Post Processing  
+- Jobs, Burst, Input System (New), Cinemachine, ProBuilder, Post Processing  
 - Terrain, Ragdoll, Joints, адаптивный UI, Editor API  
 - Процедурная генерация mesh  
 - Оптимизация: код, физика, рендеринг, UI  
