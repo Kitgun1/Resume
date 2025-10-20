@@ -1,41 +1,48 @@
-# Дергачев Аркадий Александрович
+# Дергачев Аркадий Александрович  
+**Middle / Junior+ Unity Developer**  
+📍 Telegram: [@KimicuK](https://t.me/KimicuK)  
+💼 Зарплата: **100–150 тыс. ₽/мес (на руки)**  
+🛡️ Военный билет: **есть (не подлежу призыву)**
 
-**![icon](images/calendar-event.svg) Дата рождения:** 19.02.2004 (21)
+---
 
-<nobr>![Telegram:](images/telegram.svg) <a href="https://t.me/KimicuK">@KimicuK</a></nobr>&emsp;<br class="hide">
-<nobr>![GitHub:](images/github.svg) https://github.com/Kitgun1</nobr>
+## Опыт (~3 года коммерческого опыта)
 
-## Опыт работы:
-* Immortals Games - 3 года+ - разрабатывал решения для разработки игр и игры для платформы яндекс игры
-* Преподавание - 3 месяца интенсивной подготовки студентов к экзамену по Unity
-* Фриланс - разработка множества игр на заказ
+- **Immortals Games** (2+ года)  
+  Разработка игр и инструментов для **Yandex Games**.
+- **Преподавание** (3 месяца)  
+  Интенсивная подготовка студентов к экзамену по Unity.
+- **Фриланс**  
+  Создание заказных игр под ключ.
 
-<p style="break-after: page;"></p>
+---
 
-## ![icon](images/briefcase-fill.svg) Опыт работы
+## Стек технологий
 
-| Дата                 | Место работы                                                                                                                                                                                                                           |
-|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| с 04.2023 по н.в.    | **Junior Unity Developer**. Работал на разработкой новых игр, а также обновление и исправлением багов в уже существующих. Также писал готовые решения для остальных разработчиков студии. https://github.com/Kitgun1/KimicuYandexGames |
+### Архитектура и код
+- SOLID, ООП, Dependency Injection  
+- Паттерны: State Machine, Object Pool, Factory, Observer, Proxy, Entry Point, Singleton  
 
-## ![icon](images/window-stack.svg) Мои проекты
+### Unity
+- Input System (New), Cinemachine, ProBuilder, Post Processing  
+- Terrain, Ragdoll, Joints, адаптивный UI, Editor API  
+- Процедурная генерация mesh  
+- Оптимизация: код, физика, рендеринг, UI  
 
-- **Game Car Simulate** - Проект гонок с механикой призрака повторяющего твой предыдущий заезд. `Newtonsoft`, `R3`, `DI`. [Игра](https://kimicu.itch.io/car-simulate), [GitHub](https://github.com/Kitgun1/GameCarSimulate)
-- **Farm Simulator** - Симулятор фермы. `YandexGames SDK`. [Режим в игре](https://yandex.ru/games/app/391490)
-- **Kimicu YandexGames SDK** - сдк для гибкой настройки проекта под Yandex Games. `API`. [GitHub](https://github.com/Kitgun1/KimicuYandexGames)
-- **Kimicu Layouts** - Гибкая реализация Layout в Unity UI. `UI`, `Layout`. [GitHub](https://github.com/Kitgun1/KimicuLayouts)
-- **AuroraWorld**(В Разработке) - RTS стратегия с развитием поселения. `URP`, `Mathf`, `A*`. [GitHub](https://github.com/Kitgun1/AuroraWorld)
-- **Robot Game**(В закрытой разработке) - Steam сессионая игра с друзьями похожая на Lethal Company (В скором времени будет открыт репозиторий с демонстрацией, но без открытого исходного кода)
+### Плагины и библиотеки
+- Addressables, DOTween, Zenject, R3, UniTask, Newtonsoft.Json  
 
-# Знания
-- **Проектирование** - SOLID, ООП, DI
-- **Unity** - Unity Multiplayer, Input System(New), Cinemachine, ProBuilder, Post Processing, Terrain, Joint, Адаптивный UI, Ragdoll
-- **Дополнительное Unity** - Генерация Mesh в коде
-- **Render** - BRP, URP, Shader Graph
-- **Плагины** - Job System, DoTween, Zenject, UniRx(R3), UniTask(многопоточность и асинхронность), Addressable, ... 
-- **Оптимизация** - код, физика, render, UI
-- **Паттерны** - Proxy, Entry point, Factory, Object Pool, State Machine, Singleton, Observer, и т.д.
-- **Система контроля версий** - Git на уверенном уровне
+### Инструменты и интеграции
+- Git (командная разработка, разрешение конфликтов)  
+- Yandex Games API (собственный SDK)  
 
+### Дополнительно
+- Базовое знание: .NET, SQL, JavaScript, HTML/CSS, React  
+- Предпочтение: open-world и стратегические проекты
+---
 
-- **Прочее** - SQL, html/css, react.js, python, photoshop, blender
+## Проекты
+
+- 🎮 [**AuroraWorld**](https://github.com/Kitgun1/AuroraWorld) — стратегия на гексагональной карте  
+- 🧩 [**KimicuYandexGames**](https://github.com/TheErikSar/KimicuYandexGames) — собственный SDK для Yandex Games  
+- 👤 [**GitHub**](https://github.com/Kitgun1)
