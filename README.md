@@ -1,5 +1,5 @@
 # Дергачев Аркадий Александрович  
-**Middle / Junior+ Unity Developer**  
+**Unity Developer**  
 📍 Telegram: [@KimicuK](https://t.me/KimicuK)  
 💼 Зарплата: **100–150 тыс. ₽/мес (на руки)**  
 🛡️ Военный билет: **есть (не подлежу призыву)**
