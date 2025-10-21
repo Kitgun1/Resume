@@ -1,5 +1,8 @@
 # Дергачев Аркадий Александрович  
 **Unity Developer**  
+📞 Телефон: +7 (993) 417-98-15  
+✉️ Email: kitgunplay@gmail.com  
+💬 WhatsApp: +7 (917) 283-95-52  
 📍 Telegram: [@KimicuK](https://t.me/KimicuK)  
 🛡️ Военный билет: **есть (не подлежу призыву)**
 
